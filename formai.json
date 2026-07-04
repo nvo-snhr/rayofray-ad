@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-07-04T08:08:54Z",
+  "updatedAt": "2026-07-04T11:06:19Z",
   "_note": "ad-ops ダッシュボードで編集。id=計測キー（拡張が c= を自動付与）。href は /go 計測ハブ経由。",
   "creatives": [
     {
@@ -11,6 +11,14 @@
       "badge": "近日公開",
       "cta": "callAIを見る →",
       "href": "https://api.rayofray.com/go?app=formai&slot=footer&u=https%3A%2F%2Frayofray.com%2Fextensions%2Fcall-ai%2F"
+    },
+    {
+      "id": "footer-b",
+      "placement": "header",
+      "type": "text",
+      "body": "無料",
+      "cta": "callAI →",
+      "href": "https://api.rayofray.com/go?app=formai&slot=header&u=https%3A%2F%2Frayofray.com%2Fextensions%2Fcall-ai%2F"
     }
   ]
 }
