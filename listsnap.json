@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "updatedAt": "2026-07-19T18:54:24Z",
+  "_note": "ad-ops ダッシュボードで編集。id=計測キー（拡張が c= を自動付与）。href は /go 計測ハブ経由。",
+  "creatives": [
+    {
+      "id": "footer-a",
+      "placement": "footer",
+      "type": "text",
+      "body": "AIフォーム入力ツール",
+      "badge": "NEW",
+      "cta": "formAIを見る",
+      "href": "https://api.rayofray.com/go?app=listsnap&slot=footer&u=https%3A%2F%2Frayofray.com%2Fextensions%2Fform-ai%2F"
+    }
+  ]
+}
